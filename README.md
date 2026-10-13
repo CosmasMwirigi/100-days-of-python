@@ -11,6 +11,7 @@ The job market is tough. Learning in public keeps me consistent and shows exactl
 | Day | Topic | Folder |
 |-----|-------|--------|
 | 1 | Conditionals, custom functions, match | [day-01-conditionals](./day-01-conditionals) |
+| 2 | Functions, variables, comments, f-strings, string methods | [day-02-functions-variables-strings](./day-02-functions-variables-strings) |
 
 ## How to run the code
 
