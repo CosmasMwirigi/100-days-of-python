@@ -12,6 +12,7 @@ The job market is tough. Learning in public keeps me consistent and shows exactl
 |-----|-------|--------|
 | 1 | Conditionals, custom functions, match | [day-01-conditionals](./day-01-conditionals) |
 | 2 | Functions, variables, comments, f-strings, string methods | [day-02-functions-variables-strings](./day-02-functions-variables-strings) |
+| 3 | Integers, floats, round, formatting numbers, scope, return | [day-03-numbers-scope-return](./day-03-numbers-scope-return) |
 
 ## How to run the code
 
